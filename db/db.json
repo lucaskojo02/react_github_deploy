@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 31, 2025 5:28:46 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet hic error ipsum illo in impedit, delectus, deleniti non laborum natus cum molestias alias, iste amet modi corrupti facere voluptatum."
+    },
+    {
+      "id": "2",
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus optio adipisci iste beatae repellendus aut ea laborum delectus totam mollitia tempore molestias illo deleniti unde dignissimos in architecto, a at."
+    },
+    {
+      "id": "9523f8de-a558-4497-b972-90c178b53047",
+      "title": "Saturday post",
+      "datetime": "August  02, 2025 5:08:57 AM",
+      "body": "Today is 02/08/2025, the first Saturday of August 2025"
+    },
+    {
+      "id": "83ae819f-a584-4015-aacb-b39a5687cfcb",
+      "title": "First Sunday",
+      "datetime": "August 03, 2025 8:16:03 AM",
+      "body": "Hello this is my first Sunday post"
+    },
+    {
+      "id": "9d702f99-d720-4170-8f3e-746638e80cfd",
+      "title": "Tuesday Post",
+      "datetime": "August 05, 2025 7:59:25 PM",
+      "body": "Hello my good people"
+    }
+  ]
+}
